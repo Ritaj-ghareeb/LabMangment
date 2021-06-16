@@ -1,1 +1,1 @@
-# LabMangment
+# RitajProject
